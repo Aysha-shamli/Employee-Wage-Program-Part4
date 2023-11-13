@@ -7,5 +7,8 @@ public class Main {
         Attendance.checkAttendance("Employee2");
 
         dailyWage.calculateDailyWage(20, 8);
+
+        partTimeWage.calculatePartTimeWage(20,4);
+
     }
 }
