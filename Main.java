@@ -5,5 +5,7 @@ public class Main {
 
         Attendance.checkAttendance("Employee1");
         Attendance.checkAttendance("Employee2");
+
+        dailyWage.calculateDailyWage(20, 8);
     }
 }
